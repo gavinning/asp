@@ -1,7 +1,7 @@
 {
   "name": "@4a/asp",
   "version": "0.1.0",
-  "description": "日志模块",
+  "description": "color log, 染色日志",
   "main": "index.js",
   "scripts": {
     "test": "mocha test/*.spec.js"
@@ -11,13 +11,21 @@
     "url": "git+https://github.com/gavinning/asp.git"
   },
   "keywords": [
+    "log",
     "logger",
-    "日志"
+    "color-log",
+    "color-logger",
+    "日志",
+    "染色日志",
+    "彩色日志"
   ],
   "author": "gavinning",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/gavinning/asp/issues"
   },
-  "homepage": "https://github.com/gavinning/asp#readme"
+  "homepage": "https://github.com/gavinning/asp#readme",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
 }
