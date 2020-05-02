@@ -1,0 +1,23 @@
+{
+  "name": "@4a/asp",
+  "version": "0.1.0",
+  "description": "日志模块",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/*.spec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gavinning/asp.git"
+  },
+  "keywords": [
+    "logger",
+    "日志"
+  ],
+  "author": "gavinning",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gavinning/asp/issues"
+  },
+  "homepage": "https://github.com/gavinning/asp#readme"
+}
