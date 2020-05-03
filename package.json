@@ -1,8 +1,8 @@
 {
   "name": "@4a/asp",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "color log, 染色日志",
-  "main": "index.js",
+  "main": "asp.js",
   "scripts": {
     "test": "mocha test/*.spec.js"
   },
